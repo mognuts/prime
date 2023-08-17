@@ -1,0 +1,4 @@
+-user mognuts
+-cpu ColOwL
+-device 0
+-maxAlloc 2000M

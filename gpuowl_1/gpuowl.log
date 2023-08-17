@@ -1,0 +1,18 @@
+20230802 16:07:12  GpuOwl VERSION v7.2.1-5-g472cd82-dirty
+20230802 16:07:12  config: -user mognuts
+20230802 16:07:12  config: -cpu ColOwL
+20230802 16:07:12  config: -device 0
+20230802 16:07:12  config: -maxAlloc 12000M
+20230802 16:07:12  device 0, unique id ''
+20230802 16:07:12 ColOwL 70262189 FFT: 3.75M 256:15:512 (17.87 bpw)
+20230802 16:07:12 ColOwL  Exception gpu_error:  clGetPlatformIDs(16, platforms, (unsigned *) &nPlatforms) at src/clwrap.cpp:71 getDeviceIDs
+20230802 16:07:12 ColOwL  Bye
+20230802 16:08:25  GpuOwl VERSION v7.2.1-5-g472cd82-dirty
+20230802 16:08:26  config: -user mognuts
+20230802 16:08:26  config: -cpu ColOwL
+20230802 16:08:26  config: -device 0
+20230802 16:08:26  config: -maxAlloc 12000M
+20230802 16:08:26  device 0, unique id ''
+20230802 16:08:26 ColOwL 70262189 FFT: 3.75M 256:15:512 (17.87 bpw)
+20230802 16:08:26 ColOwL  Exception gpu_error:  clGetPlatformIDs(16, platforms, (unsigned *) &nPlatforms) at src/clwrap.cpp:71 getDeviceIDs
+20230802 16:08:26 ColOwL  Bye
